@@ -131,3 +131,10 @@ Hospital-Emergency-Room-Dashboard/
 ├── Hospital_Logo.png
 │
 └── Screenshot 2026-09-26 025124.png
+## 👩‍💻 Author
+
+**Chanchal Rana**
+
+B.Tech – Computer Science & Engineering
+
+Data Analytics Enthusiast
