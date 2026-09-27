@@ -1,46 +1,63 @@
 # 🏥 Hospital Emergency Room Dashboard
 ## 📊 Project Overview
-Project is an Excel-based Hospital Emergency Room Dashboard designed
-to analyze patient data and emergency room performance.
-The dashboard provides a monthly report with key insights about patient
-admission status, waiting time, satisfaction score, gender, age groups,
-and department referrals.
+This project is an Excel-based **Hospital Emergency Room Dashboard** designed
+to analyze patient data and provide meaningful insights into emergency room
+performance.
+The dashboard presents a monthly report covering patient admissions,
+waiting time, satisfaction score, gender distribution, age groups, and
+department referrals.
 ---
 ## 🎯 Project Objectives
 The main objectives of this project are:
-- Analyze the total number of patients
+- Analyze the total number of emergency room patients
 - Compare admitted and non-admitted patients
 - Analyze average patient waiting time
 - Analyze patient satisfaction
-- Analyze patients by gender
-- Analyze patients by age group
-- Analyze department referrals
-- Understand monthly emergency room performance
+- Understand gender-wise patient distribution
+- Analyze patients by different age groups
+- Analyze department referral patterns
+- Track monthly patient trends
+- Present healthcare data through an interactive dashboard
 ---
 ## 🛠️ Tools & Technologies
 - Microsoft Excel
-- Excel Pivot Tables
+- Pivot Tables
 - Pivot Charts
 - Data Cleaning
 - Data Analysis
 - Data Visualization
 - Dashboard Design
 ---
-## 📌 Key Performance Indicators (KPIs)
-The dashboard includes the following KPIs:
-- **Total Number of Patients:** 502
-- **Average Wait Time:** 35.47 minutes
-- **Patient Satisfaction Score:** 5.10
-- **Admission Status**
-- **Gender-wise Patient Analysis**
-- **Age Group Analysis**
-- **Department Referral Analysis**
+## 📌 Dashboard KPIs
+The dashboard includes the following important KPIs:
+- Total Patients
+- Average Wait Time
+- Patient Satisfaction Score
+- Admission Status
+- Gender-wise Patient Analysis
+- Age Group Analysis
+- Department Referral Analysis
+- Monthly Patient Analysis
 ---
 ## 📈 Dashboard Analysis
-### 1. Patient Analysis
+### Patient Analysis
 The dashboard displays the total number of patients and their
 distribution across different age groups.
-The patients are grouped into:
+### Admission Status
+Patients are analyzed based on:
+- Admitted
+- Not Admitted
+### Waiting Time Analysis
+The dashboard analyzes the average waiting time of patients
+in the emergency room.
+### Patient Satisfaction
+The dashboard analyzes the average patient satisfaction score.
+### Gender Analysis
+Patients are analyzed based on:
+- Female
+- Male
+### Age Group Analysis
+Patients are grouped into different age categories:
 - 0–9
 - 10–19
 - 20–29
@@ -49,38 +66,8 @@ The patients are grouped into:
 - 50–59
 - 60–69
 - 70–79
----
-### 2. Admission Status
-Patients are divided into:
-- **Admitted**
-- **Not Admitted**
-The dashboard helps compare the number and percentage of admitted
-and non-admitted patients.
----
-### 3. Average Waiting Time
-The dashboard shows the average waiting time of patients in the
-emergency room.
-**Average Wait Time: 35.47 minutes**
----
-### 4. Patient Satisfaction
-The dashboard includes the average patient satisfaction score.
-**Average Patient Satisfaction Score: 5.10**
----
-### 5. Gender-wise Patient Analysis
-The dashboard analyzes patients based on gender:
-- Female
-- Male
-This visualization helps understand the gender distribution of
-emergency room patients.
----
-### 6. Age Group Analysis
-The dashboard displays the number of patients across different age groups.
-This helps identify the distribution of emergency room visits
-among different age categories.
----
-### 7. Department Referral Analysis
-The dashboard shows the number of patients referred to different
-departments, including:
+### Department Referral Analysis
+The dashboard analyzes referrals to different departments:
 - General Practice
 - Orthopedics
 - Physiotherapy
@@ -88,51 +75,50 @@ departments, including:
 - Cardiology
 - Neurology
 - Renal
-This helps identify the number of patients referred to different
-departments.
 ---
 ## 📅 Monthly Report
-The dashboard provides a monthly analysis from:
-- January
-- February
-- March
-- April
-- May
-- June
-- July
-- August
-- September
-- October
-- November
-- December
-The report also allows comparison between different years.
+The dashboard provides monthly patient analysis from January
+to December and allows comparison across different years.
 ---
-## 🖼️ Dashboard Preview
+## 🛠️ Project Files
+| File | Description |
+|------|-------------|
+| `Hospital Dashboard Final .jpg` | Hospital Emergency Room Dashboard preview |
+| `Hospital Emergency Room Data.csv` | Hospital emergency room dataset |
+| `Hospital_Logo.png` | Hospital logo |
+| `Screenshot 2026-09-26 025124.png` | Dashboard screenshot |
+---
+## 📷 Dashboard Preview
 ### Hospital Emergency Room Dashboard
 ![Hospital Emergency Room Dashboard](<Hospital Dashboard Final .jpg>)
 ---
 ## 🏥 Hospital Logo
 ![Hospital Logo](Hospital_Logo.png)
 ---
-## 📂 Dataset
-The project dataset is included in this repository:
-**Hospital Emergency Room Data.csv**
+## 💡 Key Learnings
+Through this project, I learned how to:
+- Clean and organize data using Microsoft Excel
+- Analyze healthcare-related data
+- Create meaningful KPIs
+- Use Pivot Tables and Pivot Charts
+- Build dashboards
+- Analyze trends and patterns
+- Create data visualizations
+- Present data in a clear and professional format
 ---
-## 📁 Project Files
-```text
-Hospital-Emergency-Room-Dashboard/
-│
-├── README.md
-│
-├── Hospital Dashboard Final .jpg
-│
-├── Hospital Emergency Room Data.csv
-│
-├── Hospital_Logo.png
-│
-└── Screenshot 2026-09-26 025124.png
-
+## 📊 Project Insights
+The dashboard helps analyze:
+- Total patient volume
+- Admission patterns
+- Waiting time
+- Patient satisfaction
+- Gender distribution
+- Age group distribution
+- Department referrals
+- Monthly patient trends
+---
 ## 👩‍💻 Author
 **Chanchal Rana**
 B.Tech – Computer Science & Engineering
+
 Data Analytics Enthusiast
